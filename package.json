@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/codediaz/Node-Diaz/issues"
   },
-  "homepage": "https://github.com/codediaz/Node-Diaz#readme"
+  "homepage": "https://github.com/codediaz/Node-Diaz#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "nodemon": "npm:null@*"
+  }
 }
