@@ -1,0 +1,19 @@
+{
+  "name": "node-diaz",
+  "version": "1.0.0",
+  "description": "Autorización y Autenticación",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codediaz/Node-Diaz.git"
+  },
+  "author": "Sergio Diaz (codediaz)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codediaz/Node-Diaz/issues"
+  },
+  "homepage": "https://github.com/codediaz/Node-Diaz#readme"
+}
